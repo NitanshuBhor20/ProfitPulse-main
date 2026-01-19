@@ -1,1 +1,2 @@
-# ProfitPulse-main
+# ProfitPulse
+ 'Empowering Your Financial Decisions'
